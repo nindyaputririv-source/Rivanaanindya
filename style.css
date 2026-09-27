@@ -1791,23 +1791,22 @@ body::after {
     padding: 100px 8%;
     background:
         radial-gradient(
-            ellipse at 20% 15%,
-            rgba(75, 85, 160, 0.14),
+            ellipse at 18% 15%,
+            rgba(65, 75, 150, 0.20),
             transparent 45%
         ),
         radial-gradient(
-            ellipse at 80% 85%,
-            rgba(90, 65, 145, 0.12),
+            ellipse at 82% 80%,
+            rgba(100, 65, 160, 0.16),
             transparent 45%
         ),
         linear-gradient(
-            160deg,
-            #101115 0%,
-            #15161d 50%,
-            #111116 100%
+            145deg,
+            #0b0c11 0%,
+            #131521 48%,
+            #0c0d12 100%
         );
 }
-
 .project-card {
     width: 100%;
 
